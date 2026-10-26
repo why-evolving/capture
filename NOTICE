@@ -1,0 +1,22 @@
+Capture
+Copyright (C) 2026 why-evolving and contributors.
+SPDX-License-Identifier: AGPL-3.0-only
+
+Original project source code, documentation and assets are licensed under version 3
+of the GNU Affero General Public License only. Third-party material identified in
+THIRD_PARTY_NOTICES.md retains its own terms. The license document itself retains
+the Free Software Foundation's copyright and verbatim-copying permission.
+
+This program is free software: you can redistribute it and/or modify it under the
+terms of version 3 of the GNU Affero General Public License as published by the
+Free Software Foundation.
+
+This program is distributed in the hope that it will be useful, but WITHOUT ANY
+WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A
+PARTICULAR PURPOSE. See LICENSE for the full terms.
+
+Distributors of binaries must provide the matching Corresponding Source as
+required by the license. A source archive matching the exact release is one way
+to provide network access; see section 6 of LICENSE. Modified network-interactive
+versions must satisfy section 13. Personal signing private keys are not included
+in this repository; developers can prepare their own signing identities.
