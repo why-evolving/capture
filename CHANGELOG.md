@@ -1,5 +1,9 @@
 # Changes
 
+## Unreleased
+
+- Redesigned the Chinese README and added an English edition, original cover artwork, generated-sample UI screenshots and direct preview downloads.
+
 ## 0.6.2
 
 - Native screenshot capture, editing, decoration, presets and local recording.

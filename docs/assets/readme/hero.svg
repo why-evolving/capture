@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="560" viewBox="0 0 1600 560" role="img" aria-labelledby="title desc">
+  <title id="title">Capture — Capture beautifully. Share effortlessly.</title>
+  <desc id="desc">Original lavender and blue artwork for Capture, a native macOS screenshot and screen recording app. Decorative crop marks surround a stack of cards.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f5f2ff"/><stop offset=".58" stop-color="#edf3ff"/><stop offset="1" stop-color="#e6f7f4"/></linearGradient>
+    <linearGradient id="icon" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#b38fee"/><stop offset="1" stop-color="#614dc7"/></linearGradient>
+    <linearGradient id="card" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#b5a0f1"/><stop offset=".5" stop-color="#9caeea"/><stop offset="1" stop-color="#9fd7cd"/></linearGradient>
+    <filter id="shadow" x="-50%" y="-50%" width="200%" height="230%"><feDropShadow dx="0" dy="18" stdDeviation="24" flood-color="#4b4b86" flood-opacity=".16"/></filter>
+  </defs>
+  <rect width="1600" height="560" rx="32" fill="url(#bg)"/>
+  <circle cx="1435" cy="45" r="245" fill="#fff" opacity=".38"/>
+  <circle cx="1120" cy="565" r="220" fill="#fff" opacity=".28"/>
+  <g transform="translate(84 64)">
+    <rect width="76" height="76" rx="20" fill="url(#icon)"/>
+    <path d="M24 33v-9h9m10 0h9v9M24 43v9h9m10 0h9v-9" stroke="#fff" stroke-width="4" stroke-linecap="round" fill="none"/>
+    <circle cx="38" cy="38" r="3" fill="#fff"/>
+  </g>
+  <g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif">
+    <text x="183" y="111" font-size="29" font-weight="600" letter-spacing="1" fill="#6a6390">MADE FOR YOUR MAC</text>
+    <text x="80" y="255" font-size="112" font-weight="750" letter-spacing="-6" fill="#24233f">Capture.</text>
+    <text x="86" y="322" font-size="32" font-weight="500" fill="#4e506a">Capture beautifully.</text>
+    <text x="86" y="368" font-size="32" font-weight="500" fill="#4e506a">Share effortlessly.</text>
+    <g font-size="18" font-weight="500" fill="#585974">
+      <rect x="86" y="431" width="128" height="44" rx="22" fill="#fff" opacity=".86"/><text x="150" y="459" text-anchor="middle">SCREENSHOT</text>
+      <rect x="226" y="431" width="104" height="44" rx="22" fill="#fff" opacity=".86"/><text x="278" y="459" text-anchor="middle">STYLE</text>
+      <rect x="342" y="431" width="118" height="44" rx="22" fill="#fff" opacity=".86"/><text x="401" y="459" text-anchor="middle">RECORD</text>
+    </g>
+    <g transform="translate(955 104)">
+      <rect x="-48" y="37" width="438" height="286" rx="22" fill="#d3c5f4" opacity=".7" transform="rotate(-10 170 180)"/>
+      <rect x="18" y="25" width="438" height="286" rx="22" fill="#c3deda" opacity=".9" transform="rotate(7 240 170)"/>
+      <rect width="438" height="286" rx="22" fill="url(#card)" filter="url(#shadow)"/>
+      <rect x="38" y="38" width="362" height="210" rx="13" fill="#fdfcf9"/>
+      <text x="66" y="91" font-size="11" font-weight="650" letter-spacing="2.5" fill="#99918a">A LITTLE SPACE TO CREATE</text>
+      <text x="65" y="149" font-size="31" font-weight="650" letter-spacing="-.8" fill="#44414c">Make it yours.</text>
+      <rect x="66" y="171" width="191" height="7" rx="3.5" fill="#ddd8e6"/>
+      <rect x="66" y="189" width="142" height="7" rx="3.5" fill="#eae6ef"/>
+      <circle cx="334" cy="209" r="8" fill="#b7a4df"/><circle cx="354" cy="209" r="8" fill="#b1d3cb"/>
+      <path d="M-29 30v-48h48m390 0h48v48M-29 256v48h48m390 0h48v-48" stroke="#7168b0" stroke-width="4" stroke-linecap="round" fill="none" opacity=".7"/>
+      <rect x="94" y="329" width="254" height="45" rx="22.5" fill="#fff" opacity=".94"/>
+      <circle cx="122" cy="351.5" r="6" fill="#7ba99b"/>
+      <text x="143" y="358" font-size="17" font-weight="550" fill="#65647c">Native. Local. Open source.</text>
+    </g>
+  </g>
+</svg>
